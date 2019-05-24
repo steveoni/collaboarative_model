@@ -1,0 +1,1 @@
+Create a collaborative filtering model for Netflix data prize competition on kaggle using fastai. This notebook follow the step-by-step process of fastai lesson 5.
